@@ -22,7 +22,7 @@ return j,k
 
 ALGORITHM task2
 var
-set1,set2:array[20];
+set1,set2:array_of type[20];
 i,j,sum:int:=0;
 for i from 0 to 20 do
 write("donner les elements des 2 listes")
